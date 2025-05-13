@@ -1,0 +1,6 @@
+import YUMI_CONTRACT_ABI from "./abi/YUMIABI.json";
+
+export const YUMI_CONTRACT_ADDRESS =
+  "0x4b18230198a26699E6c94F33Bb67303b39B41c6C";
+
+export const yumiABI = YUMI_CONTRACT_ABI;
